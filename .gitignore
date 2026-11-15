@@ -1,0 +1,9 @@
+# Никогда не коммитить реальные настройки и секреты
+*.config.json
+tokens.json
+config.local.toml
+.matterbridge/
+__pycache__/
+*.pyc
+.env
+config.toml
